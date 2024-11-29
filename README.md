@@ -201,7 +201,9 @@
 
 [NVIDIA Flex](https://github.com/NVIDIAGameWorks/FleX) is a particle-based simulation library designed for real-time applications.
 
-[ARToolKit](https://artoolkit.org) is a fast and modern open source tracking and recognition SDK which enables computers to see and understand more in the environment around them. It's built from the ground up using modern computer vision techniques.
+[ARToolKit]() was a fast and modern open source tracking and recognition SDK which enables computers to see and understand more in the environment around them. It's built from the ground up using modern computer vision techniques.
+
+[ARToolkitX](https://www.artoolkitx.org) is an open source project that has been created to continue support for the ARToolKit community.
 
 [ALVR(Air Light VR)](https://github.com/alvr-org/ALVR) is a Stream VR games from your PC to your headset via Wi-Fi.
 ALVR uses technologies like [Asynchronous Timewarp](https://developer.oculus.com/documentation/native/android/mobile-timewarp-overview) and [Fixed Foveated Rendering](https://developer.oculus.com/documentation/native/android/mobile-ffr) for a smoother experience.
